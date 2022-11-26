@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.project.ecart.JWTConfiguration.ShoppingConfiguration;
-import com.project.ecart.controller.RequestPojo.ApiResponse;
+import com.project.ecart.RequestPojo.ApiResponse;
 import com.project.ecart.model.AddtoCart;
 import com.project.ecart.service.CartService.CartService;
 

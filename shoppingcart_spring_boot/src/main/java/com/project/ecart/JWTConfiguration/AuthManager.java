@@ -9,7 +9,7 @@ import org.springframework.security.authentication.UsernamePasswordAuthenticatio
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.AuthenticationException;
 
-import com.project.ecart.controller.RequestPojo.LoginRequest;
+import com.project.ecart.RequestPojo.LoginRequest;
 import com.project.ecart.model.User;
 import com.project.ecart.service.UserServices.UserService;
 

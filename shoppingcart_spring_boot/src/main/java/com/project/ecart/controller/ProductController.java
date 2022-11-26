@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.project.ecart.controller.RequestPojo.ApiResponse;
+import com.project.ecart.RequestPojo.ApiResponse;
 import com.project.ecart.model.Category;
 import com.project.ecart.model.Products;
 import com.project.ecart.service.ProductService.ProductServices;

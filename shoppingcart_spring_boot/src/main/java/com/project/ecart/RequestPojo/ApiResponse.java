@@ -1,4 +1,4 @@
-package com.project.ecart.controller.RequestPojo;
+package com.project.ecart.RequestPojo;
 
 import java.util.Arrays;
 import java.util.List;

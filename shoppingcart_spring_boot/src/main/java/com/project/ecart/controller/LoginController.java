@@ -19,8 +19,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.project.ecart.JWTConfiguration.AuthManager;
 import com.project.ecart.JWTConfiguration.JwtTokenProvider;
 import com.project.ecart.JWTConfiguration.UserPrincipal;
-import com.project.ecart.controller.RequestPojo.ApiResponse;
-import com.project.ecart.controller.RequestPojo.LoginRequest;
+import com.project.ecart.RequestPojo.ApiResponse;
+import com.project.ecart.RequestPojo.LoginRequest;
 import com.project.ecart.model.User;
 import com.project.ecart.service.UserServices.UserService;
 

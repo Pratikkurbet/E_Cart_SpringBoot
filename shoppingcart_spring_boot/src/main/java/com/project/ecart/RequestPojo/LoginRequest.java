@@ -1,4 +1,4 @@
-package com.project.ecart.controller.RequestPojo;
+package com.project.ecart.RequestPojo;
 
 public class LoginRequest {
 	String mobile;
