@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;shoppingcart_spring_boot&apos; to &apos;Ecart_spring_boot&apos;" description="Rename resource &apos;shoppingcart_spring_boot&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/shoppingcart_spring_boot" name="Ecart_spring_boot" stamp="1668961320572" updateReferences="true"/>
-</session>

@@ -1,3 +1,0 @@
-INDEX VERSION 1.4+D:\E_Cart_App\Backend\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-62214668.index
-18993295.index
