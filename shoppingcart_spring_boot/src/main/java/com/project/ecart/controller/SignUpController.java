@@ -45,9 +45,9 @@ public class SignUpController {
 		}
 	}
 	
-	@PatchMapping("updateUser")
-	public ResponseEntity<?> updateUser()
-	{
-		return null;
-	}
+//	@PatchMapping("updateUser")
+//	public ResponseEntity<?> updateUser()
+//	{
+//		return null;
+//	}
 }
